@@ -14,7 +14,9 @@
 	<name>test.sonarcloud</name>
 	<description>Demo project test SonarCloud</description>
 	<properties>
-		<java.version>21</java.version>
+		<java.version>17</java.version>
+		<sonar.organization>lunesombre</sonar.organization>
+		<sonar.host.url>https://sonarcloud.io</sonar.host.url>
 	</properties>
 	<dependencies>
 		<dependency>
